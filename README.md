@@ -20,7 +20,7 @@ To get started with the Wedding Planner AI, you'll need to have Python 3 install
 
 1.  **Clone the repository:**
     ```
-    git clone https://github.com/your-username/wedding-planner-ai.git
+    git clone https://github.com/charithmadhuranga/wedding-planner-ai.git
     ```
 2.  **Install the dependencies:**
     ```
