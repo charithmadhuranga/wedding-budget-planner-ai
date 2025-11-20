@@ -1,4 +1,4 @@
-# Wedding Planner AI
+# Wedding Budget Planner AI
 
 This project is a command-line chatbot that acts as a simple AI wedding planner. It's designed to help you keep track of your wedding budget by allowing you to add expenses, view your current budget, and see your total spending.
 
@@ -20,7 +20,7 @@ To get started with the Wedding Planner AI, you'll need to have Python 3 install
 
 1.  **Clone the repository:**
     ```
-    git clone https://github.com/charithmadhuranga/wedding-planner-ai.git
+    git clone https://github.com/charithmadhuranga/wedding-budget-planner-ai.git
     ```
 2.  **Install the dependencies:**
     ```
